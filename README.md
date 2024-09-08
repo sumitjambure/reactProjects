@@ -10,6 +10,8 @@ Packages to install in frontend -
 -bootstrap
 -react-router-dom
 
+-npm install
+
 
 
 Using -
@@ -17,6 +19,7 @@ Using -
     LoginValidation component for validation.
     server.js for backend handeling.
   
+
 
 
 To run project-
